@@ -10,7 +10,9 @@ e: The pizza delivery location
 Create a Maze-Running App that can find possible ways to traverse a city to a specified destination
 Includes:
 
-Map
-Input Map file
+Map,
+Input Map file,
 Algorithm Selector
+
+
 Done on Python
